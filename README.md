@@ -1,5 +1,7 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
+Hier ist der Code für mein Projekt zur Hochschulweiten Interdisziplinären Projektwoche.
+Zusammen hat das Team 10 von 10, inklusive mir, sich die Frage gestellt 
+"Wie können wir falsche Informationen auf der der Plattform TikTok thematisieren?" 
+Dazu habe ich eine Webiste erstellt mit next.js.
 ## Getting Started
 
 First, run the development server:
