@@ -2,6 +2,9 @@ Hier ist der Code für mein Projekt zur Hochschulweiten Interdisziplinären Proj
 Zusammen hat das Team 10 von 10, inklusive mir, sich die Frage gestellt 
 "Wie können wir falsche Informationen auf der der Plattform TikTok thematisieren?" 
 Dazu habe ich eine Webiste erstellt mit next.js.
+Die Website ist scuffed, dadurch dass ich limitierte Zeit hatte. Eigentlich wären es mehrere Pages gewesen mit Button Links href. Aber das hat nicht geklappt.
+Deswegen einfach den Quellcode von page.tsx mit den quellcodes unter pages/ ersetzen.
+
 ## Getting Started
 
 First, run the development server:
